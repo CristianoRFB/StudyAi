@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+.env.*
+.streamlit/secrets.toml
+*.pyc
+.DS_Store
+node_modules/

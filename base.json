@@ -1,0 +1,434 @@
+[
+  {
+    "id": "visao-1",
+    "texto": "A AV_FINAL é a avaliação prática mais importante do módulo de\n        PLN e IA Generativa. Nela, sua equipe vai desenvolver, documentar\n        e apresentar uma solução funcional que utilize Processamento de\n        Linguagem Natural (PLN), Inteligência Artificial Generativa ou Large\n        Language Models (LLMs)."
+  },
+  {
+    "id": "visao-3",
+    "texto": "O quê? Desenvolver uma solução funcional com PLN / IA Generativa / LLMs"
+  },
+  {
+    "id": "visao-5",
+    "texto": "Entrega 1: Relatório técnico (8 a 12 páginas, PDF)"
+  },
+  {
+    "id": "visao-6",
+    "texto": "Entrega 2: Código funcional (Colab ou GitHub)"
+  },
+  {
+    "id": "visao-7",
+    "texto": "Entrega 3: Apresentação com demonstração ao vivo (15 min)"
+  },
+  {
+    "id": "visao-10",
+    "texto": "Aplicar na prática os conceitos das Aulas 23 a 27."
+  },
+  {
+    "id": "visao-11",
+    "texto": "Resolver um problema real (ou simular um contexto real)."
+  },
+  {
+    "id": "visao-12",
+    "texto": "Demonstrar domínio técnico e pensamento crítico ."
+  },
+  {
+    "id": "visao-13",
+    "texto": "Comunicar a solução de forma clara e profissional ."
+  },
+  {
+    "id": "visao-14",
+    "texto": "Documentar tudo em um relatório técnico completo."
+  },
+  {
+    "id": "visao-15",
+    "texto": "💡 Conexão com o mercado: as habilidades que vocês vão demonstrar\n        na AV3 — construir sistemas RAG, integrar LLMs, aplicar engenharia de prompts —\n        são exatamente as competências mais demandadas no mercado de IA em 2025/2026."
+  },
+  {
+    "id": "entregaveis-1",
+    "texto": "📄 1. Relatório Técnico (PDF, 8 a 12 páginas) Documento que descreve o problema, a solução, a arquitetura, os resultados\n          e as limitações. Deve seguir a estrutura definida na seção Relatório Técnico . Prazo: até o início da aula da AV3."
+  },
+  {
+    "id": "entregaveis-2",
+    "texto": "💻 2. Código Funcional (Colab ou GitHub) Código completo que roda sem erros, com comentários explicativos.\n          Deve ser entregue como link do Google Colab ou repositório GitHub. Prazo: até o início da aula da AV3."
+  },
+  {
+    "id": "entregaveis-3",
+    "texto": "🎤 3. Apresentação com Demonstração ao Vivo (15 min) Apresentação da solução para a turma e o professor, incluindo\n          demonstração funcional do código. Seguida de 5 minutos de perguntas. Data: aula da AV3 (Aula Dupla 28)."
+  },
+  {
+    "id": "entregaveis-4",
+    "texto": "⚠️ Importante: os três itens são obrigatórios.\n        A ausência de qualquer um deles resultará em desconto proporcional na nota.\n        O relatório e o código devem ser entregues antes do início\n        da aula de apresentações."
+  },
+  {
+    "id": "equipe-3",
+    "texto": "Formação Definida pelos próprios alunos (até 1 semana antes da AV3)"
+  },
+  {
+    "id": "equipe-4",
+    "texto": "Divisão de trabalho Todos os membros devem participar ativamente e da apresentação"
+  },
+  {
+    "id": "equipe-5",
+    "texto": "Individual Não é permitido realizar o projeto individualmente"
+  },
+  {
+    "id": "equipe-6",
+    "texto": "Dica: formem equipes com perfis complementares. Por exemplo:\n        um membro mais forte em código, outro em documentação, outro em apresentação.\n        Isso equilibra o trabalho e melhora o resultado final."
+  },
+  {
+    "id": "requisitos-1",
+    "texto": "1️⃣ Uso de pelo menos uma técnica de PLN / NLP Exemplos: tokenização, embeddings, análise de sentimentos, classificação\n          de texto, extração de entidades (NER), summarização, tradução."
+  },
+  {
+    "id": "requisitos-2",
+    "texto": "2️⃣ Integração com LLM ou modelo de linguagem Exemplos: API Gemini, API OpenAI, modelo local (Ollama), modelos\n          pré-treinados do Hugging Face, sentence-transformers."
+  },
+  {
+    "id": "requisitos-3",
+    "texto": "3️⃣ Aplicação de Engenharia de Prompts A solução deve demonstrar uso consciente de técnicas de prompting:\n          zero-shot, few-shot, chain-of-thought, personas, formatação de saída."
+  },
+  {
+    "id": "requisitos-4",
+    "texto": "4️⃣ Código funcional e documentado O código deve rodar sem erros e ter comentários explicativos.\n          Aceita-se Google Colab ou repositório GitHub."
+  },
+  {
+    "id": "requisitos-5",
+    "texto": "5️⃣ Demonstração ao vivo A equipe deve demonstrar a solução funcionando durante a apresentação.\n          Tenham um plano B (vídeo ou screenshots) caso a API falhe."
+  },
+  {
+    "id": "requisitos-6",
+    "texto": "6️⃣ Relatório técnico completo Documento de 8 a 12 páginas seguindo a estrutura obrigatória."
+  },
+  {
+    "id": "requisitos-7",
+    "texto": "Interface gráfica (Streamlit, Gradio) — mas impressiona na apresentação."
+  },
+  {
+    "id": "requisitos-8",
+    "texto": "Uso de múltiplas técnicas combinadas (ex.: RAG + análise de sentimentos)."
+  },
+  {
+    "id": "requisitos-9",
+    "texto": "Avaliação quantitativa com métricas (Precision@k, acurácia, etc.)."
+  },
+  {
+    "id": "requisitos-10",
+    "texto": "Deploy em plataforma cloud (Hugging Face Spaces, Render)."
+  },
+  {
+    "id": "requisitos-11",
+    "texto": "Comparação entre diferentes abordagens ou modelos."
+  },
+  {
+    "id": "temas-1",
+    "texto": "🤖 Tema 1: Chatbot com RAG para Domínio Específico Construa um chatbot que responde perguntas sobre um conjunto específico\n        de documentos (políticas de RH, manual de produto, FAQ de serviço,\n        conteúdo de uma disciplina, legislação, etc.). Técnicas: Embeddings, ChromaDB/FAISS, RAG, LLM, Engenharia de Prompts. Exemplo prático: chatbot que responde dúvidas sobre o regulamento\n        do curso, ou sobre as políticas de uma empresa fictícia. Dificuldade: Média"
+  },
+  {
+    "id": "temas-2",
+    "texto": "📊 Tema 2: Sistema de Análise de Sentimentos com LLM Crie um sistema que analise sentimentos em textos (reviews, tweets,\n        comentários, avaliações de produtos) usando LLMs e compare com\n        abordagens clássicas de PLN. Técnicas: PLN, classificação de texto, LLM, few-shot prompting, formatação JSON. Exemplo prático: analisar avaliações de produtos em um e-commerce\n        e gerar relatório de satisfação. Dificuldade: Média"
+  },
+  {
+    "id": "temas-3",
+    "texto": "📝 Tema 3: Pipeline de Extração de Informação Desenvolva um pipeline que extraia informações estruturadas de textos\n        não estruturados (currículos, notícias, contratos, e-mails). Técnicas: NER, LLM, formatação JSON, engenharia de prompts, few-shot. Exemplo prático: extrair nome, formação e experiência de currículos\n        em texto livre e gerar um JSON estruturado. Dificuldade: Fácil"
+  },
+  {
+    "id": "temas-4",
+    "texto": "🔍 Tema 4: Busca Semântica Inteligente Construa um sistema de busca semântica sobre um acervo de documentos\n        (artigos, notícias, documentos internos) com reranking opcional. Técnicas: Embeddings, Vector Database, chunking, busca semântica, métricas de avaliação. Exemplo prático: buscar em notícias de tecnologia usando linguagem\n        natural, sem depender de palavras-chave exatas. Dificuldade: Média"
+  },
+  {
+    "id": "temas-5",
+    "texto": "🎨 Tema 5: Aplicação com IA Generativa Crie uma aplicação que use IA generativa para summarização, tradução,\n        reescrita, geração de conteúdo ou transformação de texto. Técnicas: LLM, engenharia de prompts, personas, formatação de saída, templates. Exemplo prático: ferramenta que resume artigos acadêmicos\n        em linguagem acessível para diferentes públicos. Dificuldade: Fácil"
+  },
+  {
+    "id": "temas-6",
+    "texto": "📚 Tema 6: Assistente de Estudos com RAG Construa um assistente que responda perguntas sobre o material de uma\n        disciplina específica, usando os slides e textos da aula como base. Técnicas: RAG, chunking, embeddings, LLM, system prompts, memória de conversa. Exemplo prático: chatbot que responde dúvidas sobre a disciplina\n        IIA012 usando o plano de ensino e materiais das aulas. Dificuldade: Média"
+  },
+  {
+    "id": "temas-7",
+    "texto": "🎯 Tema 7: Tema Livre (com aprovação) Proponha um tema próprio que utilize PLN, IA Generativa ou LLMs.\n        O tema deve ser aprovado pelo professor com pelo menos 1 semana de antecedência. Requisito: deve incluir pelo menos uma técnica de PLN/NLP\n        e integração com LLM ou modelo de linguagem. Dificuldade: Variável"
+  },
+  {
+    "id": "arquitetura-1",
+    "texto": "Componente Tecnologia aprendida Aula"
+  },
+  {
+    "id": "arquitetura-2",
+    "texto": "Embeddings sentence-transformers Aula 23"
+  },
+  {
+    "id": "arquitetura-4",
+    "texto": "Chunking Funções Python (por parágrafo, tamanho, overlap) Aula 24"
+  },
+  {
+    "id": "arquitetura-6",
+    "texto": "Engenharia de Prompts Personas, CoT, Few-shot, JSON Aula 27"
+  },
+  {
+    "id": "arquitetura-7",
+    "texto": "Busca Semântica cosine_similarity, np.argsort Aula 24"
+  },
+  {
+    "id": "arquitetura-8",
+    "texto": "💡 Dica: vocês não precisam reinventar a roda. Reutilizem os\n        códigos das Aulas 23 a 27 como base e adaptem para o problema específico\n        do projeto de vocês. O diferencial estará na aplicação e na personalização."
+  },
+  {
+    "id": "relatorio-2",
+    "texto": "1 Capa Instituição, curso, disciplina, título do projeto, nomes dos integrantes, professor, data 1"
+  },
+  {
+    "id": "relatorio-3",
+    "texto": "2 Resumo Parágrafo único (5-8 linhas) com problema, solução, técnicas e resultados 1"
+  },
+  {
+    "id": "relatorio-4",
+    "texto": "3 Introdução e Problema Qual problema resolve? Por que é importante? Quem é afetado? 1-2"
+  },
+  {
+    "id": "relatorio-5",
+    "texto": "4 Metodologia Técnicas utilizadas, ferramentas, bibliotecas, processo de desenvolvimento 2-3"
+  },
+  {
+    "id": "relatorio-6",
+    "texto": "5 Arquitetura da Solução Diagrama ou descrição do fluxo de dados, componentes do sistema 1-2"
+  },
+  {
+    "id": "relatorio-7",
+    "texto": "6 Resultados Resultados obtidos, métricas, exemplos de saída, screenshots 1-2"
+  },
+  {
+    "id": "relatorio-8",
+    "texto": "7 Limitações e Trabalhos Futuros O que não funciona bem, propostas de melhoria, reflexão ética 1"
+  },
+  {
+    "id": "relatorio-9",
+    "texto": "8 Conclusão Síntese dos aprendizados, contribuição do projeto 1"
+  },
+  {
+    "id": "relatorio-10",
+    "texto": "9 Referências Fontes consultadas (ABNT ou similar) 1"
+  },
+  {
+    "id": "relatorio-11",
+    "texto": "Dica de formatação: usem o Template do Relatório Técnico\n        fornecido pelo professor como base. Ele já contém a estrutura completa\n        com campos para preencher."
+  },
+  {
+    "id": "apresentacao-1",
+    "texto": "0:00 – 2:00 Apresentação da equipe e do problema"
+  },
+  {
+    "id": "apresentacao-2",
+    "texto": "2:00 – 5:00 Metodologia e técnicas utilizadas"
+  },
+  {
+    "id": "apresentacao-3",
+    "texto": "5:00 – 10:00 Demonstração ao vivo da solução (parte mais importante!)"
+  },
+  {
+    "id": "apresentacao-4",
+    "texto": "10:00 – 13:00 Resultados e limitações"
+  },
+  {
+    "id": "apresentacao-5",
+    "texto": "13:00 – 15:00 Conclusão e aprendizados"
+  },
+  {
+    "id": "apresentacao-6",
+    "texto": "15:00 – 20:00 Perguntas do professor e da turma (arguição)"
+  },
+  {
+    "id": "apresentacao-7",
+    "texto": "Tempo máximo: 15 minutos. Ao final, o professor interromperá."
+  },
+  {
+    "id": "apresentacao-8",
+    "texto": "Todos participam: cada membro deve falar pelo menos uma parte."
+  },
+  {
+    "id": "apresentacao-9",
+    "texto": "Demonstração obrigatória: o código deve rodar ao vivo."
+  },
+  {
+    "id": "apresentacao-10",
+    "texto": "Slides opcionais: podem usar slides, mas a demonstração é o foco."
+  },
+  {
+    "id": "apresentacao-11",
+    "texto": "Plano B: tenham screenshots ou vídeo gravado caso a API falhe."
+  },
+  {
+    "id": "apresentacao-12",
+    "texto": "⚠️ Atenção: se a demonstração ao vivo falhar, a equipe deve\n        mostrar o plano B (vídeo ou screenshots) e explicar o que causou a falha.\n        A nota de demonstração será reduzida proporcionalmente."
+  },
+  {
+    "id": "avaliacao-2",
+    "texto": "Correção Técnica 3,0 Código funcional, uso correto das técnicas, solução roda sem erros, demonstração ao vivo"
+  },
+  {
+    "id": "avaliacao-3",
+    "texto": "Criatividade e Originalidade 1,5 Solução inovadora, tema relevante, abordagem diferenciada"
+  },
+  {
+    "id": "avaliacao-4",
+    "texto": "Qualidade da Documentação 2,0 Relatório completo, claro, com diagrama de arquitetura e referências"
+  },
+  {
+    "id": "avaliacao-5",
+    "texto": "Apresentação 2,0 Clareza, objetividade, domínio do conteúdo, respostas às perguntas"
+  },
+  {
+    "id": "avaliacao-6",
+    "texto": "Pensamento Crítico 1,5 Identificação de limitações, propostas de melhoria, reflexão ética"
+  },
+  {
+    "id": "avaliacao-9",
+    "texto": "Usa pelo menos uma técnica de PLN/NLP 0,5"
+  },
+  {
+    "id": "avaliacao-10",
+    "texto": "Integração com LLM ou modelo de linguagem 0,5"
+  },
+  {
+    "id": "avaliacao-14",
+    "texto": "Avaliação por pares: além da nota do professor, as equipes\n        também serão avaliadas pelos colegas (avaliação por pares). Essa avaliação\n        pode contribuir com até 1 ponto adicional, a critério do professor."
+  },
+  {
+    "id": "cronograma-2",
+    "texto": "Formação das equipes Até 2 semanas antes da AV3 Definir equipes de 2 a 4 alunos e informar ao professor"
+  },
+  {
+    "id": "cronograma-3",
+    "texto": "Escolha do tema Até 2 semanas antes da AV3 Escolher um dos temas sugeridos ou propor tema livre"
+  },
+  {
+    "id": "cronograma-4",
+    "texto": "Aprovação de tema livre Até 1 semana antes da AV3 Se optar por tema livre, obter aprovação do professor"
+  },
+  {
+    "id": "cronograma-5",
+    "texto": "Desenvolvimento 2 semanas (entre a Aula 27 e a AV3) Codificar, testar, documentar e preparar apresentação"
+  },
+  {
+    "id": "cronograma-6",
+    "texto": "Entrega do relatório + código Antes do início da aula da AV3 Enviar PDF do relatório e link do código"
+  },
+  {
+    "id": "cronograma-7",
+    "texto": "Apresentação Aula da AV3 (Aula Dupla 28) 15 min de apresentação + 5 min de perguntas"
+  },
+  {
+    "id": "cronograma-8",
+    "texto": "Divulgação das notas Até 3 dias úteis após a AV3 Notas publicadas na plataforma da disciplina"
+  },
+  {
+    "id": "dicas-1",
+    "texto": "Comecem cedo: não deixem para a última semana."
+  },
+  {
+    "id": "dicas-2",
+    "texto": "Dividam tarefas: cada membro cuida de uma parte."
+  },
+  {
+    "id": "dicas-3",
+    "texto": "Testem tudo várias vezes: garantam que o código roda sem erros."
+  },
+  {
+    "id": "dicas-4",
+    "texto": "Preparem plano B: gravem um vídeo da demonstração como backup."
+  },
+  {
+    "id": "dicas-5",
+    "texto": "Ensaiem a apresentação: cronometrem para não ultrapassar 15 min."
+  },
+  {
+    "id": "dicas-6",
+    "texto": "Revisem o relatório: verifiquem se todas as seções estão completas."
+  },
+  {
+    "id": "dicas-7",
+    "texto": "Sejam objetivos: 15 minutos passam rápido."
+  },
+  {
+    "id": "dicas-8",
+    "texto": "Demonstrem ao vivo: é o ponto mais importante."
+  },
+  {
+    "id": "dicas-9",
+    "texto": "Expliquem as escolhas: por que usaram essa técnica e não outra?"
+  },
+  {
+    "id": "dicas-10",
+    "texto": "Sejam honestos sobre limitações: mostra maturidade técnica."
+  },
+  {
+    "id": "dicas-11",
+    "texto": "Respondam com confiança: se não souberem, digam e proponham investigar."
+  },
+  {
+    "id": "dicas-12",
+    "texto": "❌ Não testar o código antes da apresentação."
+  },
+  {
+    "id": "dicas-13",
+    "texto": "❌ Ultrapassar o tempo de 15 minutos."
+  },
+  {
+    "id": "dicas-14",
+    "texto": "❌ Relatório incompleto ou sem estrutura definida."
+  },
+  {
+    "id": "dicas-15",
+    "texto": "❌ Não explicar as escolhas técnicas."
+  },
+  {
+    "id": "dicas-18",
+    "texto": "❌ Copiar código da internet sem entender."
+  },
+  {
+    "id": "dicas-19",
+    "texto": "❌ Deixar a API key exposta no código público."
+  },
+  {
+    "id": "faq-1",
+    "texto": "Posso usar qualquer LLM? Sim! Vocês podem usar Gemini (gratuito), OpenAI, Anthropic, modelos locais\n        (Ollama), ou modelos do Hugging Face. O importante é que haja integração\n        com um modelo de linguagem. Recomendamos o Gemini pela facilidade de acesso\n        e tier gratuito."
+  },
+  {
+    "id": "faq-2",
+    "texto": "Preciso criar algo completamente novo? Não. Vocês podem adaptar exemplos das aulas anteriores, mas devem\n        personalizar para um problema específico e adicionar funcionalidades próprias.\n        A criatividade está na aplicação, não necessariamente na técnica."
+  },
+  {
+    "id": "faq-3",
+    "texto": "Se a API falhar durante a apresentação? Tenham um plano B: screenshots, vídeo gravado, ou uma versão simplificada\n        que funcione offline. A preparação é parte da avaliação. Se a falha for\n        comprovadamente externa (ex.: queda de internet geral), o professor\n        considerará o plano B sem penalização."
+  },
+  {
+    "id": "faq-4",
+    "texto": "Posso entregar o relatório depois do prazo? Não. O relatório deve ser entregue até o início da aula da AV3.\n        Atrasos terão desconto de 1 ponto por dia de atraso, até o limite de 3 dias."
+  },
+  {
+    "id": "faq-5",
+    "texto": "Quantas pessoas por equipe? Mínimo 2, máximo 4 alunos. Todos devem participar da apresentação.\n        Não é permitido realizar o projeto individualmente."
+  },
+  {
+    "id": "faq-6",
+    "texto": "Posso usar frameworks como LangChain ou LlamaIndex? Sim! Frameworks são bem-vindos e podem facilitar a implementação.\n        O importante é entender o que está acontecendo por baixo. Se usarem\n        um framework, expliquem no relatório o que ele faz internamente."
+  },
+  {
+    "id": "faq-7",
+    "texto": "O código precisa estar em Python? Preferencialmente sim, pois é a linguagem usada em toda a disciplina.\n        Porém, se a equipe tiver experiência com outra linguagem e justificar\n        a escolha, o professor pode autorizar."
+  },
+  {
+    "id": "faq-8",
+    "texto": "Preciso de uma interface gráfica? Não é obrigatório, mas agrega valor na apresentação. Se quiserem,\n        podem usar Streamlit ou Gradio para criar uma interface simples.\n        O código no Colab já é suficiente para a demonstração."
+  },
+  {
+    "id": "faq-9",
+    "texto": "O que acontece se eu não participar da apresentação? Todos os membros devem participar. Se um membro não puder comparecer\n        por motivo justificado (atestado, etc.), a equipe deve informar ao professor\n        previamente. Caso contrário, a nota do membro ausente pode ser reduzida."
+  },
+  {
+    "id": "faq-10",
+    "texto": "Posso usar dados reais (ex.: documentos da empresa onde trabalho)? Sim, desde que vocês tenham autorização para usar esses dados e que\n        não contenham informações sensíveis ou pessoais. Se houver dúvida,\n        consultem o professor. Alternativamente, criem documentos fictícios."
+  },
+  {
+    "id": "faq-11",
+    "texto": "Como protejo minha API key no código? Nunca exponham a API key em repositórios públicos. Usem variáveis\n        de ambiente ou peçam para o professor avaliar o código localmente.\n        Se for Colab, podem usar uma célula com a key e apagá-la antes de compartilhar."
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "pergunta": "Qual o prazo de entrega do relatório?",
+    "esperado": "entregaveis",
+    "recuperados": [
+      "cronograma-6",
+      "visao-5",
+      "faq-4"
+    ],
+    "acerto": false
+  },
+  {
+    "pergunta": "Quantas pessoas por equipe?",
+    "esperado": "faq",
+    "recuperados": [
+      "faq-5",
+      "apresentacao-1"
+    ],
+    "acerto": true
+  },
+  {
+    "pergunta": "Qual o peso da correção técnica?",
+    "esperado": "avaliacao",
+    "recuperados": [
+      "avaliacao-2",
+      "relatorio-4",
+      "avaliacao-9"
+    ],
+    "acerto": true
+  },
+  {
+    "pergunta": "Como protejo minha API key no código?",
+    "esperado": "faq",
+    "recuperados": [
+      "faq-11",
+      "dicas-19"
+    ],
+    "acerto": true
+  },
+  {
+    "pergunta": "Preciso de uma interface gráfica?",
+    "esperado": "faq",
+    "recuperados": [
+      "faq-8",
+      "requisitos-7",
+      "dicas-2"
+    ],
+    "acerto": true
+  },
+  {
+    "pergunta": "Qual o tempo máximo da apresentação?",
+    "esperado": "apresentacao",
+    "recuperados": [
+      "apresentacao-7",
+      "dicas-12",
+      "faq-5"
+    ],
+    "acerto": true
+  }
+]
